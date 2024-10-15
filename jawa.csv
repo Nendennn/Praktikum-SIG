@@ -1,0 +1,7 @@
+"nid","parent_nid","name","serial","type","latitude","longitude","status"
+"11","0","Provinsi DKI Jakarta","31","1","-6.211544","106.845172","1"
+"12","0","Provinsi Jawa Barat","32","1","-7.090911","107.668887","1"
+"13","0","Provinsi Jawa Tengah","33","1","-7.150975","110.1402594","1"
+"14","0","Provinsi DI Yogyakarta","34","1","-7.8753849","110.4262088","1"
+"15","0","Provinsi Jawa Timur","35","1","-7.5360639","112.2384017","1"
+"16","0","Provinsi Banten","36","1","-6.4058172","106.0640179","1"

@@ -1,0 +1,5 @@
+"nid","parent_nid","name","serial","type","latitude","longitude","status"
+"20","0","Provinsi Kalimantan Barat","61","1","-0.2787808","111.4752851","1"
+"21","0","Provinsi Kalimantan Tengah","62","1","-1.6814878","113.3823545","1"
+"22","0","Provinsi Kalimantan Selatan","63","1","-3.0926415","115.2837585","1"
+"23","0","Provinsi Kalimantan Timur","64","1","1.6406296","116.419389","1"
